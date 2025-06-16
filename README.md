@@ -26,13 +26,13 @@ I’m always excited to learn, build, and contribute to real-world projects.
 - `React`, `Bootstrap`, `jQuery`
 - `Tailwind CSS`, `WordPress`
 - `SQL`, `MongoDB`, `MySQL`
-- Responsive Design, DOM Manipulation
-- Git & GitHub for version control
+- `Responsive Design`, `DOM Manipulation`
+- `Git` & `GitHub` for version control
 
 ---
 
 ## Contact Me
-- Email: [usama.developer40.gmail.com](usama.developer40.gmail.com)
+- Email: [usama.developer40.gmail.com](mailto:usama.developer40.gmail.com)
 - Portfolio: [usama4.vercel.app](https://usama4.vercel.app)
 - LinkedIn: [https://www.linkedin.com/in/usama-khan2004](https://www.linkedin.com/in/usama-khan2004)
 - Facebook: [https://www.facebook.com/usamadev](https://www.facebook.com/usamadev)
